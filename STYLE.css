@@ -1,0 +1,55 @@
+body {
+    /*background-color: #B6FFBB*/
+    background-color: #FDFD96;
+    padding-bottom: 200px;
+}
+
+.gambar {
+    display: block;
+    height: 470px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.opening {
+    text-align: center;
+    margin-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: smaller;
+}
+
+.base {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr 1fr;
+}
+
+.base2 {
+    text-align: center
+}
+
+.base3 {
+    display: grid;
+    grid-template-rows: 1r 1r 1r 1r;
+}
+
+.postlink {
+ display: grid;
+ grid-template-columns: 1r;
+
+}
+
+.kolomcari {
+    width: 265px;
+}
+
+.serving {
+    font-size: small;
+}
+
+.blokbawah {
+    margin-top: 40px;
+    display: grid;
+    grid-template-rows: 1r;
+    background-color: rgb(24, 146, 105);
+}
